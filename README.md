@@ -4,15 +4,15 @@ Messages on the Filecoin **mainnet**, counted by receiving actor type and method
 [filecoin-message-mix](https://dire-states.github.io/filecoin-message-mix/) site
 ([source](https://github.com/dire-states/filecoin-message-mix)). This file is generated on every update.
 
-Covered: height 6530801 (2026-11-09 13:20 UTC) to 6557210 (2026-11-18 17:25 UTC).
-Last update: 2026-11-18 17:35 UTC.
+Covered: height 6530801 (2026-11-09 13:20 UTC) to 6557931 (2026-11-18 23:25 UTC).
+Last update: 2026-11-18 23:35 UTC.
 Gaps (heights the node no longer had): 6538639-6551200.
 
 ## Last 30 days
 
 | Day (hourly CSV) | Messages | Top methods |
 |---|---|---|
-| [2026-11-18](days/2026/11/2026-11-18.csv) | 39,663 | miner.SubmitWindowedPoSt 10,440, account.Send 9,988, evm.InvokeContract 8,532 |
+| [2026-11-18](days/2026/11/2026-11-18.csv) | 50,009 | miner.SubmitWindowedPoSt 14,131, evm.InvokeContract 12,145, account.Send 11,711 |
 | [2026-11-17](days/2026/11/2026-11-17.csv) | 52,613 | miner.SubmitWindowedPoSt 14,484, evm.InvokeContract 13,965, account.Send 10,670 |
 | [2026-11-16](days/2026/11/2026-11-16.csv) | 16,338 | evm.InvokeContract 5,460, miner.SubmitWindowedPoSt 5,267, market.SettleDealPayments 2,061 |
 | [2026-11-12](days/2026/11/2026-11-12.csv) | 21,695 | miner.ExtendSectorExpiration2 10,244, miner.SubmitWindowedPoSt 4,066, account.Send 3,615 |
