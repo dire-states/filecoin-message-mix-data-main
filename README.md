@@ -4,15 +4,15 @@ Messages on the Filecoin **mainnet**, counted by receiving actor type and method
 [filecoin-message-mix](https://dire-states.github.io/filecoin-message-mix/) site
 ([source](https://github.com/dire-states/filecoin-message-mix)). This file is generated on every update.
 
-Covered: height 6530801 (2026-11-09 13:20 UTC) to 6578885 (2026-11-26 06:02 UTC).
-Last update: 2026-11-26 06:13 UTC.
+Covered: height 6530801 (2026-11-09 13:20 UTC) to 6580915 (2026-11-26 22:57 UTC).
+Last update: 2026-11-26 23:07 UTC.
 Gaps (heights the node no longer had): 6538639-6551200.
 
 ## Last 30 days
 
 | Day (hourly CSV) | Messages | Top methods |
 |---|---|---|
-| [2026-11-26](days/2026/11/2026-11-26.csv) | 14,727 | miner.ExtendSectorExpiration2 4,710, miner.SubmitWindowedPoSt 3,709, evm.InvokeContract 2,545 |
+| [2026-11-26](days/2026/11/2026-11-26.csv) | 44,137 | miner.SubmitWindowedPoSt 13,782, evm.InvokeContract 9,608, miner.ExtendSectorExpiration2 8,601 |
 | [2026-11-25](days/2026/11/2026-11-25.csv) | 43,260 | evm.InvokeContract 14,334, miner.SubmitWindowedPoSt 14,326, account.Send 8,845 |
 | [2026-11-24](days/2026/11/2026-11-24.csv) | 45,502 | evm.InvokeContract 15,624, miner.SubmitWindowedPoSt 14,417, account.Send 8,169 |
 | [2026-11-23](days/2026/11/2026-11-23.csv) | 42,496 | evm.InvokeContract 15,184, miner.SubmitWindowedPoSt 14,460, account.Send 7,432 |
